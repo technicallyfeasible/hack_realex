@@ -1,0 +1,32 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.example.realex"
+        },
+        "cordova-plugin-estimote": {
+            "PACKAGE_NAME": "com.example.realex"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/cordova-plugin-estimote/plugin/src/js/EstimoteBeacons.js",
+            "id": "cordova-plugin-estimote.EstimoteBeacons",
+            "pluginId": "cordova-plugin-estimote",
+            "clobbers": [
+                "estimote"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-whitelist": "1.2.1",
+        "cordova-plugin-estimote": "0.8.0"
+    }
+}

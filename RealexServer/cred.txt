@@ -1,0 +1,4 @@
+Client ID:	hackathon3
+Secret:		secret
+URL Endpoint:	https://hpp.sandbox.realexpayments.com/pay
+Remote:		https://epage.sandbox.payandshop.com/epage-remote.cgi

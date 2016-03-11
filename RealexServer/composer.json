@@ -1,0 +1,6 @@
+{
+    "require": {
+        "realexpayments/rxp-remote-php": "1.0.0",
+        "realexpayments/rxp-hpp-php": "1.0.0"
+    }    
+}
